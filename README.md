@@ -8,7 +8,7 @@ Step 2: for frontend:
             npm i
             npm run dev
 Step 3: for backend:
-            First, create the .env file inside the directory by renaming the .en.example file and putting correct values
+            First, create the .env file inside the directory by renaming the .env.example file and putting correct values
             npm start
             You should server running at localhost:5001 and MongoDB connected.
 
